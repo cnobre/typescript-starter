@@ -50,7 +50,7 @@
     "webpack-dev-server": "3.1.4"
   },
   "dependencies": {
-    "d3": "^5.14.2",
-    "provenance-lib-core": "^6.0.0"
+    "@visdesignlab/provenance-lib-core": "^1.4.0",
+    "d3": "^5.14.2"
   }
 }
